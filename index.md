@@ -1,5 +1,5 @@
 
-🌟 Seuraa OpenAI:n omaa GPT:tä lapsen edun puolesta! 🌟
+# 🌟 Seuraa OpenAI:n omaa GPT:tä lapsen edun puolesta! 
 
   
 
@@ -21,12 +21,9 @@ Yhdessä voimme edistää lasten hyvinvointia ja tukea vanhempia tärkeissä pä
 
 #LapsenEtu #TasaArvoVanhemmuus #Lastensuojelu #HuoltoJaTapaamisoikeus #OikeusMolempiinVanhempiin #OpenAI #GPT4 #VanhemmuudenTuki
 
-  
-
-# https://chatgpt.com/g/g-ENd6QnfjB-lapsen-huolto-ja-tapaamisoikeussopimus
 
 
 
-https://thl.fi/aiheet/lapset-nuoret-ja-perheet/sote-palvelut/perheoikeudelliset-palvelut/lapsen-huolto-tapaaminen-ja-asuminen
 
-![kuva](photo.png)
+[search for it.] (https://thl.fi/aiheet/lapset-nuoret-ja-perheet/sote-palvelut/perheoikeudelliset-palvelut/lapsen-huolto-tapaaminen-ja-asuminen)
+
