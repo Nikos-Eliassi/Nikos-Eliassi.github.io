@@ -25,4 +25,4 @@ Yhdessä voimme edistää lasten hyvinvointia ja tukea vanhempia tärkeissä pä
 
 https://chatgpt.com/g/g-ENd6QnfjB-lapsen-huolto-ja-tapaamisoikeussopimus
 
-![alt text](huoltajuus.webp)
+![kuva esimerkki](huoltajuus.png)
